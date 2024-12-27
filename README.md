@@ -10,4 +10,10 @@
 ### 🫀 Interests
 - Medical AI, Segmentation Learning, Surgical Workflow Learning, Bioinformatics
 
-### Skills
+### 🛠️ Technical Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cpp,figma,firebase,flask,github,js,mongodb,nodejs,opencv,py,pytorch,react,redux"/>
+  </a>
+  <br/>
+</p>
