@@ -29,6 +29,11 @@ Hey! Am' currently studying in Korea whilst working in a lab to do research in m
 - Dean's List 2023
 - Academic Excellence Scholarship x 5
 
+### 👾 Projects I Worked On
+- [Depression Paper's Code](https://github.com/InfoLab-SKKU/DES4Depression/tree/main)
+- [Fridge Scanner powered with AI](https://github.com/gatosopa/food_app_flutter)
+- 
+
 ### 🪐 Misc
 - Languages: English, Mandarin, Indonesian, Korean
 - Hobbies & Interests: Piano, Basketball, Cooking, Gaming
