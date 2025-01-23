@@ -20,7 +20,7 @@ Hey! Am' currently studying in Korea whilst working in a lab to do research in m
 ### 🛠️ Technical Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cpp,figma,firebase,flask,github,js,mongodb,sql,nodejs,opencv,py,pytorch,react,redux"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cpp,figma,firebase,flask,github,js,mongodb,mysql,nodejs,opencv,py,pytorch,react,redux"/>
   </a>
   <br/>
 </p>
