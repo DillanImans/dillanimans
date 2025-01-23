@@ -10,8 +10,8 @@ Hey! Am' currently studying in Korea whilst working in a lab to do research in m
 - Imans, D., Abuhmed, T., Alharbi, M., & El-Sappagh, S. (2024). Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. Diagnostics, 14(21), 2385. https://doi.org/10.3390/diagnostics14212385
 
 ### 🚀 Professional Experiences
-- (2024.11 - Present) Undergraduate Research Intern @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
-- (2024.06 - 2025.01) Summer Research Intern @ [Labren CUHK](http://www.labren.org/mm/)
+- (2024.10 - Present) Undergraduate Research Intern @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
+- (2024.06 - 2024.08, continued collaboration until Present) Summer Research Intern @ [Labren CUHK](http://www.labren.org/mm/)
 - (2024.02 - 2024.10) Undergraduate Research Intern @ [Infolab SKKU](https://infolab.skku.edu/)
 
 ### 🎓 Education
