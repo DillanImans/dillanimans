@@ -11,7 +11,7 @@ Hey! Am' currently studying in Korea whilst working in a lab to do research in m
 
 ### 🚀 Professional Experiences
 - (2024.10 - Present) Undergraduate Research Intern @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
-- (2024.06 - 2024.08, continued collaboration until Present Date) Summer Research Intern @ [Labren CUHK](http://www.labren.org/mm/)
+- (2024.06 - 2024.08, maintained active collaboration to present date) Summer Research Intern @ [Labren CUHK](http://www.labren.org/mm/)
 - (2024.02 - 2024.10) Undergraduate Research Intern @ [Infolab SKKU](https://infolab.skku.edu/)
 
 ### 🎓 Education
