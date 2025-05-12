@@ -4,7 +4,7 @@
 Hey! Am' currently studying in Korea whilst working in a lab to do research in medical AI. Trying to go far in this field so that I can help people who can't afford proper medical care. Apart from this, I kinda just like what I do, so everything else comes with :). If you wanna talk, best way to reach me is through my personal email: onigoaki@gmail.com
 
 ### 🫀 Interests
-- Medical AI, Medical Segmentation Learning, Surgical Automation Learning, Biomedical informatics
+- Medical AI, Medical Segmentation Learning, Surgical Automation Learning, Biomedical Informatics
 
 ### 📝 Publications
 - Imans, D., Abuhmed, T., Alharbi, M., & El-Sappagh, S. (2024). Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. Diagnostics, 14(21), 2385. https://doi.org/10.3390/diagnostics14212385
