@@ -9,8 +9,8 @@ Hey! I am currently studying in Korea whilst working in a lab to do research in 
 ### 📝 Publications
 - Imans, D., Abuhmed, T., Alharbi, M., & El-Sappagh, S. (2024). Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. Diagnostics, 14(21), 2385. https://doi.org/10.3390/diagnostics14212385
 - Xu, M., Huang, Z., Imans, D., Ye, Y., Zhang, X., Dou, Q. "SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning." Preprint - under review at a leading AI conference. https://arxiv.org/abs/2506.07196
-- Manuscript under review at a major ML journal.
-- Manuscript under review at a major ML conference.
+- Manuscript on surgerical action understanding using vision models. Under review at a major ML journal.
+- Manuscript on generative diffusion-based model for surgical automation. Under review at a major ML conference.
 
 ### 🚀 Professional Experiences
 - (2024.10 - Present) Undergraduate Research Intern @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
