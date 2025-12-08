@@ -38,5 +38,5 @@ Hey! I am currently studying in Korea whilst working in a lab to do research in 
 
 ### 🪐 Misc
 - Languages: English & Indonesian (Fluent), Mandarin & Korean (Conversational), French (Beginner)
-- Hobbies & Interests: Stock Options, Piano, Cooking, Basketball
+- Hobbies & Interests: Quantitative Finance, Piano, Cooking, Basketball
 - References available upon request
