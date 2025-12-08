@@ -8,6 +8,7 @@ Hey! Am' currently studying in Korea whilst working in a lab to do research in m
 
 ### 📝 Publications
 - Imans, D., Abuhmed, T., Alharbi, M., & El-Sappagh, S. (2024). Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. Diagnostics, 14(21), 2385. https://doi.org/10.3390/diagnostics14212385
+- Xu, M., Huang, Z., Imans, D., Ye, Y., Zhang, X., Dou, Q. "SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning." Preprint, submitted to leading AI conference. (Under review). 
 
 ### 🚀 Professional Experiences
 - (2024.10 - Present) Undergraduate Research Intern @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
@@ -34,6 +35,6 @@ Hey! Am' currently studying in Korea whilst working in a lab to do research in m
 - [Fridge Scanner powered with AI](https://github.com/gatosopa/food_app_flutter)
 
 ### 🪐 Misc
-- Languages: English, Mandarin, Indonesian, Korean
-- Hobbies & Interests: Piano, Basketball, Cooking, Gaming
+- Languages: English & Indonesian (Fluent), Mandarin & Korean (Conversational), French (Beginner)
+- Hobbies & Interests: Stock Options, Piano, Cooking, Basketball
 - References available upon request
