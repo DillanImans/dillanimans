@@ -9,7 +9,7 @@ Hey! I am currently studying in Korea whilst working in a lab to do research in 
 ### 📝 Publications
 - **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. (2024). Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. Diagnostics, 14(21), 2385. https://doi.org/10.3390/diagnostics14212385
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation. Accepted at IEEE BIBM 2025.
-- Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. Preprint - under review at CVPR 2026. https://arxiv.org/abs/2506.07196
+- Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. Preprint, under review at CVPR 2026. https://arxiv.org/abs/2506.07196
 - He, Y., Guo, P., Xu, M., Li, Z., **Imans, D.**, et al. SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling. Preprint, under review at CVPR 2026. https://arxiv.org/abs/2512.23162
 - Manuscript on surgical action understanding using vision models. Under review at a major ML journal.
 
