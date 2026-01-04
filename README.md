@@ -14,9 +14,9 @@ Hey! I am currently studying in Korea whilst working in a lab to do research in 
 - Manuscript on surgical action understanding using vision models. Under review at a major ML journal.
 
 ### 🚀 Professional Experiences
-- (2024.10 - Present) Undergraduate Research Intern @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
-- (2024.06 - Present) Undergraduate Research Intern @ [Labren CUHK](http://www.labren.org/mm/)
-- (2024.02 - 2024.10) Undergraduate Research Intern @ [Infolab SKKU](https://infolab.skku.edu/)
+- (2024.10 - Present) Undergraduate Researcher @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
+- (2024.06 - Present) Undergraduate Researcher @ [Labren CUHK](http://www.labren.org/mm/)
+- (2024.02 - 2024.10) Undergraduate Researcher @ [Infolab SKKU](https://infolab.skku.edu/)
 
 ### 🎓 Education
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) Bachelor's of Computer Science & Engineering (Class of 2026)
