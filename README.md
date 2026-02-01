@@ -4,7 +4,7 @@
 Hey! I am currently studying in Korea whilst working in a lab to do research in medical AI. Trying to go far in this field to push boundaries and help all in need. Apart from this, I kinda just like what I do, so everything else comes with. If you wanna talk, best way to reach me is through my personal email: onigoaki@gmail.com
 
 ### 🫀 Interests
-- Computational Biology, Medical Imaging AI, Surgical Vision 
+- Medical Imaging AI, Surgical Vision, Computational Biology
 
 ### 📝 Publications
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation. IEEE BIBM 2025. https://ieeexplore.ieee.org/document/11357079.
