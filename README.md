@@ -30,8 +30,8 @@ Hey! I am currently studying in Korea whilst working in a lab to do research in 
 </p>
 
 ### 🎖️ Awards
-- Dean's List 2023
-- Academic Excellence Scholarship x 5
+- Dean's List
+- Academic Excellence Scholarship
 
 ### 👾 Other Projects I Worked On
 - [Depression Paper's Code](https://github.com/InfoLab-SKKU/DES4Depression/tree/main)
