@@ -8,11 +8,11 @@ Hey! I am currently studying in Korea whilst working in a lab to do research in 
 
 ### 📝 Publications
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation. IEEE BIBM 2025. https://ieeexplore.ieee.org/document/11357079.
-- **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. (2024). Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. Diagnostics, 14(21), 2385. https://doi.org/10.3390/diagnostics14212385
+- **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. (2024). Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. Diagnostics, 14(21), 2385. https://doi.org/10.3390/diagnostics14212385. [CODE](https://github.com/InfoLab-SKKU/DES4Depression/tree/main).
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. Preprint, under review at MICCAI. arxivlinkhere.
-- He, Y., Guo, P., Xu, M., Li, Z., **Imans, D.**, et al. SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling. Preprint, under review at ECCV 2026. https://arxiv.org/abs/2512.23162
-- Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. Preprint, under review at . https://arxiv.org/abs/2506.07196v1
-- Xu, M., Shen, D., Zhang, J., Yip, H. C., Gao, Y., Chen, C., **Imans, D.**, et al. Generalized Recognition of Basic Surgical Actions Enables Skill Assessment and Vision-Language-Model-based Surgical Planning. Preprint, under review at npj Digital Surgery. https://arxiv.org/abs/2603.12787
+- He, Y., Guo, P., Xu, M., Li, Z., **Imans, D.**, et al. SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling. Preprint, under review at ECCV 2026. https://arxiv.org/abs/2512.23162.
+- Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. Preprint, under review at . https://arxiv.org/abs/2506.07196v1.
+- Xu, M., Shen, D., Zhang, J., Yip, H. C., Gao, Y., Chen, C., **Imans, D.**, et al. Generalized Recognition of Basic Surgical Actions Enables Skill Assessment and Vision-Language-Model-based Surgical Planning. Preprint, under review at npj Digital Surgery. https://arxiv.org/abs/2603.12787.
 
 
 ### 🚀 Professional Experiences
@@ -35,8 +35,7 @@ Hey! I am currently studying in Korea whilst working in a lab to do research in 
 - Dean's List
 - Academic Excellence Scholarship
 
-### 👾 Other Projects I Worked On
-- [Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. Diagnostics](https://github.com/InfoLab-SKKU/DES4Depression/tree/main)
+### 👾 Other Relevant Projects
 - [Fridge Scanner powered with AI](https://github.com/gatosopa/food_app_flutter)
 
 ### 🪐 Misc
