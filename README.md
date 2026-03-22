@@ -36,7 +36,7 @@ Hey! I am currently studying in Korea whilst working in a lab to do research in 
 - Academic Excellence Scholarship
 
 ### 👾 Other Projects I Worked On
-- [Depression Paper's Code](https://github.com/InfoLab-SKKU/DES4Depression/tree/main)
+- [Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. Diagnostics](https://github.com/InfoLab-SKKU/DES4Depression/tree/main)
 - [Fridge Scanner powered with AI](https://github.com/gatosopa/food_app_flutter)
 
 ### 🪐 Misc
