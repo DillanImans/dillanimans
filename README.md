@@ -8,7 +8,7 @@ Currently studying in Korea. Working in a lab doing medical AI research. Trying 
 
 ### 📝 Publications
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation. **IEEE BIBM 2025**. https://ieeexplore.ieee.org/document/11357079. [CODE](https://github.com/DillanImans/unsupervised_braintumorsegmentation_ieeebibm2025).
-- **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. **Diagnostics (2024)**. https://doi.org/10.3390/diagnostics14212385. [CODE](https://github.com/InfoLab-SKKU/DES4Depression).
+- **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. **Diagnostics, 14(21), 2385 (2024)**. https://doi.org/10.3390/diagnostics14212385. [CODE](https://github.com/InfoLab-SKKU/DES4Depression).
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. Preprint, under review at MICCAI 2026. https://arxiv.org/abs/2603.21809. [CODE](https://github.com/DillanImans/CGMD-unpaired-distillation).
 - He, Y., Guo, P., Xu, M., Li, Z., **Imans, D.**, et al. SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling. Preprint, under review at ECCV 2026. https://arxiv.org/abs/2512.23162.
 - Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. Preprint, under review at IEEE TMI. https://arxiv.org/abs/2506.07196v1.
