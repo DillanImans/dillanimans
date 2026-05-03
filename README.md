@@ -1,5 +1,5 @@
 ## About Me
-> [ORCID](https://orcid.org/0009-0005-0652-7481) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [Industry CV](DillanImansCV.pdf)
+> [ORCID](https://orcid.org/0009-0005-0652-7481) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
 
 Currently studying in Korea. Working in a lab doing medical AI research. Trying to go far in this field to push boundaries and help all in need. If you wanna talk, best way to reach me is through my personal email: onigoaki@gmail.com
 
