@@ -22,7 +22,7 @@ ML Research Engineer specializing in medical image segmentation, multimodal lear
 
 ### 🎓 Education
 - [University College London](https://www.ucl.ac.uk/) — MSc AI for Biomedicine and Healthcare (Incoming, Oct 2026)
-- [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) Bachelor's of Computer Science & Engineering (Class of 2026)
+- [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (Class of 2026)
 
 ### 🛠️ Technical Skills
 <p>
