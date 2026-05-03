@@ -1,7 +1,7 @@
 ## About Me
 > [ORCID](https://orcid.org/0009-0005-0652-7481) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
 
-Currently studying in Korea. Working in a lab doing medical AI research. Trying to go far in this field to push boundaries and help all in need. If you wanna talk, best way to reach me is through my personal email: onigoaki@gmail.com
+ML Research Engineer specializing in medical image segmentation, multimodal learning, and clinical AI. Currently researching brain MRI, retinal imaging, and surgical vision across labs at SKKU and CUHK. Incoming MSc AI for Biomedicine and Healthcare at UCL. Reach me at [dillanimansbusiness@gmail.com](mailto:dillanimansbusiness@gmail.com)
 
 ### 🫀 Interests
 - Medical Imaging AI, Surgical Vision, AI for Low-Resource Settings
@@ -16,17 +16,18 @@ Currently studying in Korea. Working in a lab doing medical AI research. Trying 
 
 
 ### 🚀 Professional Experiences
-- (2024.10 - Present) Undergraduate Researcher @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
-- (2024.06 - Present) Undergraduate Researcher @ [Labren CUHK](http://www.labren.org/mm/)
-- (2024.02 - 2024.10) Undergraduate Researcher @ [Infolab SKKU](https://infolab.skku.edu/)
+- (2024.10 - Present) AI Research Engineer @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
+- (2024.06 - Present) AI Research Engineer @ [Labren CUHK](http://www.labren.org/mm/)
+- (2024.02 - 2024.10) AI Research Engineer @ [Infolab SKKU](https://infolab.skku.edu/)
 
 ### 🎓 Education
+- [University College London](https://www.ucl.ac.uk/) — MSc AI for Biomedicine and Healthcare (Incoming, Oct 2026)
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) Bachelor's of Computer Science & Engineering (Class of 2026)
 
 ### 🛠️ Technical Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,cpp,figma,firebase,flask,github,js,mongodb,mysql,nodejs,opencv,py,pytorch,react,redux"/>
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,firebase,flask,github,js,mongodb,mysql,nodejs,opencv,py,pytorch,react,redux"/>
   </a>
   <br/>
 </p>
@@ -41,4 +42,3 @@ Currently studying in Korea. Working in a lab doing medical AI research. Trying 
 ### 🪐 Misc
 - Languages: English & Indonesian (Fluent), Mandarin & Korean (Conversational), French (Beginner)
 - Hobbies & Interests: Quantitative Finance, Piano, Cooking, Basketball
-- References available upon request
