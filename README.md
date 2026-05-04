@@ -1,7 +1,7 @@
 ## About Me
 > [ORCID](https://orcid.org/0009-0005-0652-7481) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
 
-ML Research Engineer specializing in medical image segmentation, multimodal learning, and clinical AI. Currently researching brain MRI, retinal imaging, and surgical vision across labs at SKKU and CUHK. Incoming MSc AI for Biomedicine and Healthcare at UCL. Reach me at [dillanimansbusiness@gmail.com](mailto:dillanimansbusiness@gmail.com)
+ML Research Engineer with first-author publications at IEEE BIBM 2025 and Diagnostics, specializing in medical image segmentation, multimodal learning, and clinical AI deployment across brain MRI, retinal imaging, and surgical vision with additional interest in computational biology and genomics. Incoming MSc AI for Biomedicine and Healthcare at UCL. Reach me at [dillanimansbusiness@gmail.com](mailto:dillanimansbusiness@gmail.com)
 
 ### 🫀 Interests
 - Medical Imaging AI, Surgical Vision, AI for Low-Resource Settings
