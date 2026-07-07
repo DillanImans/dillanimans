@@ -40,5 +40,5 @@ Medical AI Researcher with first-author publications at IEEE BIBM 2025 and Diagn
 - [Fridge Scanner powered with AI](https://github.com/gatosopa/food_app_flutter)
 
 ### 🪐 Misc
-- Languages: English & Indonesian (Fluent), Mandarin & Korean (Conversational), French (Beginner)
-- Hobbies & Interests: Quantitative Finance, Piano, Cooking, Basketball
+- Languages: English & Indonesian (Fluent), Mandarin & Korean (Conversational), German & French (Beginner)
+- Hobbies & Interests: Chess, Piano, Cooking, Basketball
