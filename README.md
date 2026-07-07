@@ -1,7 +1,7 @@
 ## About Me
 > [ORCID](https://orcid.org/0009-0005-0652-7481) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
 
-Medical AI Research Engineer with first-author publications at IEEE BIBM 2025 and Diagnostics, specializing in medical image segmentation, multimodal learning, and clinical AI deployment across brain MRI, retinal imaging, and surgical vision, with additional experience in genomics and proteomics. Incoming MSc AI for Biomedicine and Healthcare at UCL. Reach me at [dillanimansbusiness@gmail.com](mailto:dillanimansbusiness@gmail.com)
+Medical AI Researcher with first-author publications at IEEE BIBM 2025 and Diagnostics, specializing in multimodal learning and clinical AI deployment across diagnostic imaging and surgical vision, with additional experience in genomics and proteomics. Incoming M.Sc. AI in Biomedicine at the Technical University of Munich. Reach me at [dillanimansbusiness@gmail.com](mailto:dillanimansbusiness@gmail.com)
 
 ### 🫀 Interests
 - Medical Imaging AI, Surgical Vision, AI for Low-Resource Settings
@@ -21,7 +21,7 @@ Medical AI Research Engineer with first-author publications at IEEE BIBM 2025 an
 - (2024.02 - 2024.10) AI Research Engineer @ [Infolab SKKU](https://infolab.skku.edu/)
 
 ### 🎓 Education
-- [University College London](https://www.ucl.ac.uk/) — MSc AI for Biomedicine and Healthcare (Incoming, Oct 2026)
+- [Technical University of Munich](https://www.tum.de/) — MSc AI in Biomedicine (Incoming, Oct 2026)
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (Class of 2026)
 
 ### 🛠️ Technical Skills
