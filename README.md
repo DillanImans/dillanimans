@@ -1,7 +1,7 @@
 ## About Me
 > [GoogleScholar](https://scholar.google.com/citations?user=o-TtUq0AAAAJ&hl=en) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
 
-I'm a medical AI researcher driven to help people in under-resourced settings, which means making clinical AI work even when data, labels, or compute are scarce. My work uses techniques like knowledge distillation and domain adaptation, spanning diagnostic imaging and surgical vision. I'm also in public health, working with DHIS2 and building out my own surveillance project. Long term, I want to keep working toward AI for under-resourced and low-income settings. Heading to TUM for my M.Sc. in AI in Biomedicine. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
+I'm a medical AI researcher driven to help people in under-resourced settings, which means making clinical AI work even when data, labels, or compute are scarce. My work uses techniques like knowledge distillation and domain adaptation, spanning diagnostic imaging and surgical vision. I'm also in the public health space, working with DHIS2 and building out my own surveillance project. Long term, I want to keep working toward AI for under-resourced and low-income settings. Heading to TUM for my M.Sc. in AI in Biomedicine. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
 
 ### 🫀 Interests
 - Medical Imaging AI, Surgical Vision, Public Health
