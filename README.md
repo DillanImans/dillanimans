@@ -17,12 +17,21 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 
 ### 🚀 Professional Experiences
 - (2024.10 - 2026.06) AI Research Engineer @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
-- (2024.06 - 2026.06) AI Research Engineer @ [Labren CUHK](http://www.labren.org/mm/)
-- (2024.02 - 2024.10) AI Research Engineer @ [Infolab SKKU](https://infolab.skku.edu/)
+- (2024.06 - 2026.06) AI Researcher @ [Labren CUHK](http://www.labren.org/mm/)
+- (2024.02 - 2024.10) AI Researcher @ [Infolab SKKU](https://infolab.skku.edu/)
 
 ### 🎓 Education
 - [Technical University of Munich](https://www.tum.de/) — MSc AI in Biomedicine (Incoming, Oct 2026)
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (Class of 2026)
+
+### 🌐 Public Health
+
+**Projects**
+- Luna — a surveillance app aiming to unify health reports globally, keep them regularly updated and reliable, and account for bias in reporting. In progress.
+
+**Skills/Knowledge**
+- DHIS2
+- *(more to come)*
 
 ### 🛠️ Technical Skills
 **ML**
