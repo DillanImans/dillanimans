@@ -16,6 +16,8 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 
 ### 👾 Projects
 - Luna — a surveillance app aiming to unify health reports globally, keep them regularly updated and reliable, and account for bias in reporting. In progress.
+- Medical AI Data Directory — a curated directory of medical AI datasets with accompanying analysis, aimed at making relevant data easier to find and evaluate. In progress.
+- **[Fridge Scanner](https://github.com/gatosopa/food_app_flutter)** — an app that scans fridge photos to identify ingredients and recommend recipes, built with Flutter and Flask.
 
 
 
@@ -42,7 +44,8 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,flask,fastapi,firebase"/>
 
 **Public Health**
-<img src="assets/dhis2-logo.png" height="28"/>
+
+<img src="assets/dhis2.png" height="60"/>
 
 ### 🎖️ Awards
 - Dean's List
