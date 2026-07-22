@@ -14,6 +14,10 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 - Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. Preprint, under submission. https://arxiv.org/abs/2506.07196v1.
 - Xu, M., Shen, D., Zhang, J., Yip, H. C., Gao, Y., Chen, C., **Imans, D.**, et al. Generalized Recognition of Basic Surgical Actions Enables Skill Assessment and Vision-Language-Model-based Surgical Planning. Preprint, under submission. https://arxiv.org/abs/2603.12787.
 
+### 👾 Projects
+- Luna — a surveillance app aiming to unify health reports globally, keep them regularly updated and reliable, and account for bias in reporting. In progress.
+
+
 
 ### 🚀 Professional Experiences
 - (2024.10 - 2026.06) AI Research Engineer @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
@@ -23,15 +27,6 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 ### 🎓 Education
 - [Technical University of Munich](https://www.tum.de/) — MSc AI in Biomedicine (Incoming, Oct 2026)
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (Class of 2026)
-
-### 🌐 Public Health
-
-**Projects**
-- Luna — a surveillance app aiming to unify health reports globally, keep them regularly updated and reliable, and account for bias in reporting. In progress.
-
-**Skills/Knowledge**
-- DHIS2
-- *(more to come)*
 
 ### 🛠️ Technical Skills
 **ML**
@@ -45,6 +40,9 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 **Fullstack**
 
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,flask,fastapi,firebase"/>
+
+**Public Health**
+<img src="assets/dhis2-logo.png" height="28"/>
 
 ### 🎖️ Awards
 - Dean's List
