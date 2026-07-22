@@ -33,19 +33,20 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 ### 🛠️ Technical Skills
 **ML**
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,c,cpp,bash,anaconda"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn"/>
 
 **Tooling & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions,anaconda,bash"/>
 
 **Fullstack**
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,flask,fastapi,firebase"/>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,fastapi,postgres,supabase"/>
 
-**Public Health**
+**Misc**
 
-<img src="assets/dhis2.png" height="60"/>
+<img src="assets/dhis2.png" height="50"/> <img src="https://skillicons.dev/icons?i=c,cpp"/>
+
 
 ### 🎖️ Awards
 - Dean's List
