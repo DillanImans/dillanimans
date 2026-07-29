@@ -1,25 +1,21 @@
 ## About Me
 > [GoogleScholar](https://scholar.google.com/citations?user=o-TtUq0AAAAJ&hl=en) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
 
-I'm a medical AI researcher driven to help people in under-resourced settings, which means making clinical AI work even when data, labels, or compute are scarce. My work uses techniques like knowledge distillation and domain adaptation, spanning diagnostic imaging and surgical vision. I'm also in the public health space, working with DHIS2 and building out my own surveillance project. Long term, I want to keep working toward AI for under-resourced and low-income settings. Heading to TUM for my M.Sc. in AI in Biomedicine. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
+I'm a medical AI researcher working on data- and label-efficient methods for clinical imaging: knowledge distillation, unsupervised domain adaptation, and unpaired cross-modal learning. Most of my work sits in diagnostic imaging and surgical vision, where annotation is expensive and the training data rarely matches the deployment setting. Heading to TUM for my M.Sc. in AI in Biomedicine. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
 
 ### 🫀 Interests
-- Medical Imaging AI, Surgical Vision, Public Health
+Medical Imaging AI · Surgical Vision · Multimodal AI
 
 ### 📝 Publications
+**First author**
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation. **IEEE BIBM 2025**. https://ieeexplore.ieee.org/document/11357079. [CODE](https://github.com/DillanImans/unsupervised_braintumorsegmentation_ieeebibm2025).
+- **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. **EMA4MICCAI 2026**. Preprint: https://arxiv.org/abs/2603.21809. [CODE](https://github.com/DillanImans/CGMD-unpaired-distillation).
 - **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. **Diagnostics, 14(21), 2385 (2024)**. https://doi.org/10.3390/diagnostics14212385. [CODE](https://github.com/InfoLab-SKKU/DES4Depression).
-- **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. **Accepted at EMA4MICCAI 2026.** Preprint: https://arxiv.org/abs/2603.21809. [CODE](https://github.com/DillanImans/CGMD-unpaired-distillation).
+
+**Co-authored**
 - He, Y., Guo, P., Xu, M., Li, Z., **Imans, D.**, et al. Cosmos-H-Surgical: Learning Surgical Robot Policies from Videos via World Modeling. Preprint, under submission. https://arxiv.org/abs/2512.23162.
 - Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. Preprint, under submission. https://arxiv.org/abs/2506.07196v1.
 - Xu, M., Shen, D., Zhang, J., Yip, H. C., Gao, Y., Chen, C., **Imans, D.**, et al. Generalized Recognition of Basic Surgical Actions Enables Skill Assessment and Vision-Language-Model-based Surgical Planning. Preprint, under submission. https://arxiv.org/abs/2603.12787.
-
-### 👾 Projects
-- Luna — a surveillance app aiming to unify health reports globally, keep them regularly updated and reliable, and account for bias in reporting. In progress.
-- Medical AI Data Directory — a curated directory of medical AI datasets with accompanying analysis, aimed at making relevant data easier to find and evaluate. In progress.
-- **[Fridge Scanner](https://github.com/gatosopa/food_app_flutter)** — an app that scans fridge photos to identify ingredients and recommend recipes, built with Flutter and Flask.
-
-
 
 ### 🚀 Professional Experiences
 - (2024.10 - 2026.06) AI Research Engineer @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
@@ -30,6 +26,10 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 - [Technical University of Munich](https://www.tum.de/) — MSc AI in Biomedicine (Incoming, Oct 2026)
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (Class of 2026)
 
+### 👾 Projects
+- Medical AI Data Directory — a curated directory of medical AI datasets with accompanying analysis, aimed at making relevant data easier to find and evaluate. In progress.
+- **[Fridge Scanner](https://github.com/gatosopa/food_app_flutter)** — an app that scans fridge photos to identify ingredients and recommend recipes, built with Flutter and Flask.
+
 ### 🛠️ Technical Skills
 **ML**
 
@@ -37,16 +37,11 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 
 **Tooling & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions,anaconda,bash"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions,bash"/>
 
 **Fullstack**
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,fastapi,postgres,supabase"/>
-
-**Misc**
-
-<img src="assets/dhis2.png" height="50"/> <img src="https://skillicons.dev/icons?i=c,cpp"/>
-
+<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,fastapi,nodejs,postgres,supabase"/>
 
 ### 🎖️ Awards
 - Dean's List
@@ -54,4 +49,4 @@ I'm a medical AI researcher driven to help people in under-resourced settings, w
 
 ### 🪐 Misc
 - Languages: English & Indonesian (Fluent), Mandarin & Korean (Conversational), German & French (Beginner)
-- Hobbies: Chess, Piano, Cooking
+- Hobbies: Chess, Cooking, Piano
