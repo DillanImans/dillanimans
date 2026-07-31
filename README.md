@@ -11,6 +11,7 @@ Medical Imaging AI · Surgical Vision · Multimodal AI
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation. **IEEE BIBM 2025**. https://ieeexplore.ieee.org/document/11357079. [CODE](https://github.com/DillanImans/unsupervised_braintumorsegmentation_ieeebibm2025).
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. **EMA4MICCAI 2026**. Preprint: https://arxiv.org/abs/2603.21809. [CODE](https://github.com/DillanImans/CGMD-unpaired-distillation).
 - **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. **Diagnostics, 14(21), 2385 (2024)**. https://doi.org/10.3390/diagnostics14212385. [CODE](https://github.com/InfoLab-SKKU/DES4Depression).
+- **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Shared Semantic Codebook Distillation for Unpaired Cross-Modal Medical Classification. Preprint, under submission. https://arxiv.org/abs/2607.27357. [CODE](https://github.com/DillanImans/SSCD-unpaired-distillation).
 
 **Co-authored**
 - He, Y., Guo, P., Xu, M., Li, Z., **Imans, D.**, et al. Cosmos-H-Surgical: Learning Surgical Robot Policies from Videos via World Modeling. Preprint, under submission. https://arxiv.org/abs/2512.23162.
@@ -28,7 +29,7 @@ Medical Imaging AI · Surgical Vision · Multimodal AI
 
 ### 👾 Projects
 - Medical AI Data Directory — a curated directory of medical AI datasets with accompanying analysis, aimed at making relevant data easier to find and evaluate. In progress.
-- **[Fridge Scanner](https://github.com/gatosopa/food_app_flutter)** — an app that scans fridge photos to identify ingredients and recommend recipes, built with Flutter and Flask.
+- [Fridge Scanner](https://github.com/gatosopa/food_app_flutter) — an app that scans fridge photos to identify ingredients and recommend recipes, built with Flutter and Flask.
 
 ### 🛠️ Technical Skills
 **ML**
@@ -49,4 +50,4 @@ Medical Imaging AI · Surgical Vision · Multimodal AI
 
 ### 🪐 Misc
 - Languages: English & Indonesian (Fluent), Mandarin & Korean (Conversational), German & French (Beginner)
-- Hobbies: Chess, Cooking, Piano
+- Hobbies: Cooking, Chess, Piano
