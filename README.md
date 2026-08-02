@@ -1,7 +1,7 @@
 ## About Me
 > [GoogleScholar](https://scholar.google.com/citations?user=o-TtUq0AAAAJ&hl=en) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
 
-I'm a medical AI researcher working on data- and label-efficient methods for clinical imaging: knowledge distillation, unsupervised domain adaptation, and unpaired cross-modal learning. Most of my work sits in diagnostic imaging and surgical vision, where annotation is expensive and the training data rarely matches the deployment setting. Heading to TUM for my M.Sc. in AI in Biomedicine. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
+I'm a medical AI researcher working on data- and label-efficient methods for clinical imaging: knowledge distillation, unsupervised domain adaptation, and unpaired cross-modal learning. Most of my work sits in diagnostic imaging and surgical vision, where annotation is expensive and the training data rarely matches the deployment setting. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
 
 ### 🫀 Interests
 Medical Imaging AI · Surgical Vision · Multimodal AI
@@ -24,7 +24,6 @@ Medical Imaging AI · Surgical Vision · Multimodal AI
 - (2024.02 - 2024.10) AI Researcher @ [Infolab SKKU](https://infolab.skku.edu/)
 
 ### 🎓 Education
-- [Technical University of Munich](https://www.tum.de/) — MSc AI in Biomedicine (Incoming, Oct 2026)
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (Class of 2026)
 
 ### 👾 Projects
