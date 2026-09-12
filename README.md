@@ -53,5 +53,5 @@ Medical Imaging AI · Surgical Vision · Multimodal AI
 - Academic Excellence Scholarship
 
 ### 🪐 Misc
-- Languages: English & Indonesian (Fluent), Mandarin & Korean (Conversational)
-- Hobbies: Cooking, Chess, Piano
+- Languages: English, Indonesian (Fluent) || German, Mandarin, Korean (Conversational)
+- Hobbies: Electronics, Chess, Cooking
