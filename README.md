@@ -4,7 +4,7 @@
 I'm a medical AI researcher and M.Sc. student in AI in Biomedicine at the Technical University of Munich, working on data- and label-efficient methods for clinical imaging: knowledge distillation, unsupervised domain adaptation, and unpaired cross-modal learning. Most of my work sits in diagnostic imaging and surgical vision, where annotation is expensive and the training data rarely matches the deployment setting. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
 
 ### 🫀 Interests
-Medical Imaging AI · Surgical Vision · Multimodal AI
+Medical Imaging AI · Multimodal AI · Public Health
 
 ### 📝 Publications
 **Peer-reviewed (First author)**
@@ -26,8 +26,8 @@ Medical Imaging AI · Surgical Vision · Multimodal AI
 - (2024.02 - 2024.10) AI Researcher @ [Infolab SKKU](https://infolab.skku.edu/)
 
 ### 🎓 Education
-- [Technical University of Munich (TUM)](https://www.tum.de/en/) — M.Sc. AI in Biomedicine, starting Oct 2026 (Imaging and Sensing focus)
-- [Sungkyunkwan University (SKKU)](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (Class of 2026)
+- [Technical University of Munich (TUM)](https://www.tum.de/en/) — M.Sc. AI in Biomedicine (2026-2028)
+- [Sungkyunkwan University (SKKU)](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (2022-2026)
 
 ### 👾 Projects
 - [Vigilia Mundi](https://vigiliamundi.com) — a live geospatial dashboard aggregating epidemic reports and disaster alerts on a 12-hour ingest cycle, with an idempotent upsert pipeline, deck.gl/MapLibre visualization, and a source-adapter architecture designed for adding new feeds. Built with Next.js, FastAPI, and Postgres.
@@ -36,22 +36,22 @@ Medical Imaging AI · Surgical Vision · Multimodal AI
 ### 🛠️ Technical Skills
 **ML & Core**
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,cpp,java"/>
 
 **Tooling & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions,bash"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,bash"/>
 
 **Fullstack**
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,fastapi,nodejs,postgres,supabase"/>
 
-**Medical & Misc** — MONAI · SimpleITK · NiBabel · pydicom · HuggingFace · wandb · TensorBoard
+**Medical & Misc** — MONAI · SimpleITK · NiBabel · pydicom · wandb · TensorBoard
 
 ### 🎖️ Awards
 - Dean's List
 - Academic Excellence Scholarship
 
 ### 🪐 Misc
-- Languages: English, Indonesian (Fluent) || German, Mandarin, Korean (Conversational)
+- Languages: English, Indonesian (Fluent) || Mandarin, Korean (Conversational) || German (Beginner)
 - Hobbies: Electronics, Chess, Cooking
