@@ -34,19 +34,13 @@ Medical Imaging AI · Multimodal AI · Public Health
 - [Fridge Scanner](https://github.com/gatosopa/food_app_flutter) — an app that scans fridge photos to identify ingredients and recommend recipes, built with Flutter and Flask.
 
 ### 🛠️ Technical Skills
-**ML & Core**
+**ML & Core** — Python · PyTorch · NumPy · Pandas · scikit-learn · OpenCV · C++ · Java
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,cpp,java"/>
+**Medical & Misc** — MONAI · SimpleITK · NiBabel · pydicom · HuggingFace · wandb · TensorBoard
 
-**Tooling & Workflow**
+**Tooling & Workflow** — Git · GitHub · GitHub Actions · Linux · Docker · Bash
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,bash"/>
-
-**Fullstack**
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,fastapi,nodejs,postgres,supabase"/>
-
-**Medical & Misc** — MONAI · SimpleITK · NiBabel · pydicom · wandb · TensorBoard
+**Fullstack** — TypeScript · Next.js · Tailwind · FastAPI · Node.js · PostgreSQL · Supabase
 
 ### 🎖️ Awards
 - Dean's List
