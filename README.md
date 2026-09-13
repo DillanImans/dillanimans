@@ -4,7 +4,7 @@
 I'm a medical AI researcher and M.Sc. student in AI in Biomedicine at the Technical University of Munich, working on data- and label-efficient methods for clinical imaging: knowledge distillation, unsupervised domain adaptation, and unpaired cross-modal learning. Most of my work sits in diagnostic imaging and surgical vision, where annotation is expensive and the training data rarely matches the deployment setting. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
 
 ### 🫀 Interests
-Medical Imaging AI · Multimodal AI · Public Health
+Medical Imaging AI · Surgical Vision · Multimodal AI · Public Health
 
 ### 📝 Publications
 **Peer-reviewed (First author)**
