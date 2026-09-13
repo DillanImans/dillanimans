@@ -52,4 +52,4 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 
 ### 🪐 Misc
 - Languages: English, Indonesian (Fluent) || Mandarin, Korean (Conversational) || German (Beginner)
-- Hobbies: Electronics, Chess, Cooking
+- Hobbies: Chess, Cooking, Electronics
