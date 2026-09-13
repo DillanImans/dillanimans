@@ -37,13 +37,11 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 - [Fridge Scanner](https://github.com/gatosopa/food_app_flutter) — an app that scans fridge photos to identify ingredients and recommend recipes, built with Flutter and Flask.
 
 ### 🛠️ Technical Skills
-**ML & Core** — Python · PyTorch · NumPy · Pandas · scikit-learn · OpenCV · C++ · Java
-
-**Medical & Misc** — MONAI · SimpleITK · NiBabel · pydicom · HuggingFace · wandb · TensorBoard
-
-**Tooling & Workflow** — Git · GitHub · GitHub Actions · Linux · Docker · Bash
-
-**Fullstack** — TypeScript · Next.js · Tailwind · FastAPI · Node.js · PostgreSQL · Supabase
+**Programming Languages** — Python · C/C++ · Java · TypeScript
+**ML & Core** — PyTorch · NumPy · Pandas · scikit-learn · OpenCV
+**Medical Imaging** — MONAI · nnU-Net · SimpleITK · NiBabel · pydicom
+**Tooling & Infra** — Git · GitHub Actions · Linux · Docker · Bash · HuggingFace · wandb · TensorBoard
+**Web** — Next.js · Tailwind · FastAPI · PostgreSQL · Supabase
 
 ### 🎖️ Awards
 - Dean's List
