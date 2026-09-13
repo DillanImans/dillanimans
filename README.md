@@ -38,9 +38,13 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 
 ### 🛠️ Technical Skills
 **Programming Languages** — Python · C/C++ · Java · TypeScript
+
 **ML & Core** — PyTorch · NumPy · Pandas · scikit-learn · OpenCV
+
 **Medical Imaging** — MONAI · nnU-Net · SimpleITK · NiBabel · pydicom
+
 **Tooling & Infra** — Git · GitHub Actions · Linux · Docker · Bash · HuggingFace · wandb · TensorBoard
+
 **Web** — Next.js · Tailwind · FastAPI · PostgreSQL · Supabase
 
 ### 🎖️ Awards
