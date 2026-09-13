@@ -34,7 +34,6 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 
 ### 👾 Projects
 - [Vigilia Mundi](https://vigiliamundi.com) — a live geospatial dashboard aggregating epidemic reports and disaster alerts on a 12-hour ingest cycle, with an idempotent upsert pipeline, deck.gl/MapLibre visualization, and a source-adapter architecture designed for adding new feeds. Built with Next.js, FastAPI, and Postgres.
-- [Fridge Scanner](https://github.com/gatosopa/food_app_flutter) — an app that scans fridge photos to identify ingredients and recommend recipes, built with Flutter and Flask.
 
 ### 🛠️ Technical Skills
 **Programming Languages** — Python · C/C++ · Java · TypeScript
