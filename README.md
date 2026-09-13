@@ -20,6 +20,9 @@ Medical Imaging AI · Surgical Vision · Multimodal AI · Public Health
 - Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. https://arxiv.org/abs/2506.07196v1.
 - Xu, M., Shen, D., Zhang, J., Yip, H. C., Gao, Y., Chen, C., **Imans, D.**, et al. Generalized Recognition of Basic Surgical Actions Enables Skill Assessment and Vision-Language-Model-based Surgical Planning. https://arxiv.org/abs/2603.12787.
 
+### 🤝 Service
+Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
+
 ### 🚀 Professional Experiences
 - (2024.10 - 2026.06) AI Research Engineer @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
 - (2024.06 - 2026.06) AI Researcher @ [Labren CUHK](http://www.labren.org/mm/)
