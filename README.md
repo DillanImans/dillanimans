@@ -20,6 +20,7 @@ I'm a medical AI researcher and M.Sc. student in AI in Biomedicine at the Techni
 Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 
 ### 🚀 Professional Experiences
+- (2026.10 - Present) AI Researcher @ [CAMP TUM](https://www.cs.cit.tum.de/camp/start/)
 - (2024.10 - 2026.06) AI Research Engineer @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
 - (2024.06 - 2026.06) AI Researcher @ [Labren CUHK](http://www.labren.org/mm/)
 - (2024.02 - 2024.10) AI Researcher @ [Infolab SKKU](https://infolab.skku.edu/)
