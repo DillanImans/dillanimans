@@ -1,24 +1,20 @@
 ## About Me
 > [GoogleScholar](https://scholar.google.com/citations?user=o-TtUq0AAAAJ&hl=en) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
 
-I'm a medical AI researcher and M.Sc. student in AI in Biomedicine at the Technical University of Munich, working on data- and label-efficient methods for clinical imaging: knowledge distillation, unsupervised domain adaptation, and unpaired cross-modal learning. Most of my work sits in diagnostic imaging and surgical vision, where annotation is expensive and the training data rarely matches the deployment setting. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
-
-### 🫀 Interests
-Medical Imaging AI · Surgical Vision · Multimodal AI · Public Health
+I'm a medical AI researcher and M.Sc. student in AI in Biomedicine at the Technical University of Munich. My work spans medical imaging, surgical vision, and multimodal learning. I focus on methods that generalize across data-scarce and cross-modal clinical settings. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
 
 ### 📝 Publications
-**Peer-reviewed (First author)**
+**First author**
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation. **IEEE BIBM 2025**. https://ieeexplore.ieee.org/document/11357079. [CODE](https://github.com/DillanImans/unsupervised_braintumorsegmentation_ieeebibm2025).
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. **EMA4MICCAI 2026** (accepted). Preprint: https://arxiv.org/abs/2603.21809. [CODE](https://github.com/DillanImans/CGMD-unpaired-distillation).
 - **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. **Diagnostics, 14(21), 2385 (2024)**. https://doi.org/10.3390/diagnostics14212385. [CODE](https://github.com/InfoLab-SKKU/DES4Depression).
+- **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Shared Semantic Codebook Distillation for Unpaired Cross-Modal Medical Classification. Preprint. https://arxiv.org/abs/2607.27357. [CODE](https://github.com/DillanImans/SSCD-unpaired-distillation).
 
-**Under review (First author)**
-- **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Shared Semantic Codebook Distillation for Unpaired Cross-Modal Medical Classification. Under review, **ACCV 2026**. https://arxiv.org/abs/2607.27357. [CODE](https://github.com/DillanImans/SSCD-unpaired-distillation).
-
-**Co-authored (preprints, under submission)**
-- He, Y., Guo, P., Xu, M., Li, Z., **Imans, D.**, et al. Cosmos-H-Surgical: Learning Surgical Robot Policies from Videos via World Modeling. https://arxiv.org/abs/2512.23162.
-- Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. https://arxiv.org/abs/2506.07196v1.
-- Xu, M., Shen, D., Zhang, J., Yip, H. C., Gao, Y., Chen, C., **Imans, D.**, et al. Generalized Recognition of Basic Surgical Actions Enables Skill Assessment and Vision-Language-Model-based Surgical Planning. https://arxiv.org/abs/2603.12787.
+**Co-authored**
+- Xu, M., Shen, D., Zhang, J., Yip, H. C., Gao, Y., Chen, C., **Imans, D.**, et al. Generalized Recognition of Basic Surgical Actions Enables Skill Assessment and Vision-Language-Model-based Surgical Planning. **npj Digital Surgery** (accepted). https://arxiv.org/abs/2603.12787.
+- He, Y., Guo, P., Xu, M., Li, Z., **Imans, D.**, et al. Cosmos-H-Surgical: Learning Surgical Robot Policies from Videos via World Modeling. Preprint. https://arxiv.org/abs/2512.23162.
+- Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. Preprint. https://arxiv.org/abs/2506.07196v1.
+- Acknowledged for dataset annotation support: Zeng, Z., Xu, M., Jiang, J., et al. SurgΣ: A Spectrum of Large-Scale Multimodal Data and Foundation Models for Surgical Intelligence. Preprint. https://arxiv.org/abs/2603.16822.
 
 ### 🤝 Service
 Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
@@ -47,8 +43,8 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 **Web** — Next.js · Tailwind · FastAPI · PostgreSQL · Supabase
 
 ### 🎖️ Awards
-- Dean's List
-- Academic Excellence Scholarship
+- Dean's List, SKKU
+- Academic Excellence Scholarship, SKKU
 
 ### 🪐 Misc
 - Languages: English, Indonesian (Fluent) || Mandarin, Korean (Conversational) || German (Beginner)
