@@ -52,5 +52,5 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 
 ### 🪐 Misc
 - Languages: English, Indonesian (Fluent) || Mandarin, Korean (Conversational) || German (Beginner)
-- Hobbies: Chess, Cooking, Electronics, Movies
+- Hobbies: Cooking, Electronics, Basketball, Movies
 - Letterboxd: https://letterboxd.com/onigoaki/
