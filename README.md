@@ -27,6 +27,7 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 
 ### 🎓 Education
 - [Technical University of Munich (TUM)](https://www.tum.de/en/) — M.Sc. AI in Biomedicine (2026-2028)
+  - Member: [Elitenetzwerk Bayern](https://www.elitenetzwerk.bayern.de/en/home) (Elite Network of Bavaria)
 - [Sungkyunkwan University (SKKU)](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (2022-2026)
 
 ### 👾 Projects
