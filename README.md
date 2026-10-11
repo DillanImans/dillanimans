@@ -1,5 +1,5 @@
 ## About Me
-> [GoogleScholar](https://scholar.google.com/citations?user=o-TtUq0AAAAJ&hl=en) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
+> [GoogleScholar](https://scholar.google.com/citations?user=o-TtUq0AAAAJ&hl=en) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp;
 
 I'm a medical AI researcher and M.Sc. student in the Elite Master's Program AI in Biomedicine at the Technical University of Munich. My work spans medical imaging, surgical vision, and multimodal learning. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
 
