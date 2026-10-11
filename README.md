@@ -1,12 +1,12 @@
 ## About Me
 > [GoogleScholar](https://scholar.google.com/citations?user=o-TtUq0AAAAJ&hl=en) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dillanimans/) &nbsp; · &nbsp; [CV](DillanImansCV.pdf)
 
-I'm a medical AI researcher and M.Sc. student in AI in Biomedicine at the Technical University of Munich. My work spans medical imaging, surgical vision, and multimodal learning. I focus on methods that generalize across data-scarce and cross-modal clinical settings. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
+I'm a medical AI researcher and M.Sc. student in the Elite Master's Program AI in Biomedicine at the Technical University of Munich. My work spans medical imaging, surgical vision, and multimodal learning. Reach out, I'd love to talk: dillanimansbusiness@gmail.com.
 
 ### 📝 Publications
 **First author**
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation. **IEEE BIBM 2025**. https://ieeexplore.ieee.org/document/11357079. [CODE](https://github.com/DillanImans/unsupervised_braintumorsegmentation_ieeebibm2025).
-- **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. **EMA4MICCAI 2026** (accepted). Preprint: https://arxiv.org/abs/2603.21809. [CODE](https://github.com/DillanImans/CGMD-unpaired-distillation).
+- **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. **EMA4MICCAI 2026** (MICCAI workshop, accepted). Preprint: https://arxiv.org/abs/2603.21809. [CODE](https://github.com/DillanImans/CGMD-unpaired-distillation).
 - **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. **Diagnostics, 14(21), 2385 (2024)**. https://doi.org/10.3390/diagnostics14212385. [CODE](https://github.com/InfoLab-SKKU/DES4Depression).
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Shared Semantic Codebook Distillation for Unpaired Cross-Modal Medical Classification. Preprint. https://arxiv.org/abs/2607.27357. [CODE](https://github.com/DillanImans/SSCD-unpaired-distillation).
 
@@ -20,10 +20,10 @@ I'm a medical AI researcher and M.Sc. student in AI in Biomedicine at the Techni
 Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 
 ### 🚀 Professional Experiences
-- (2026.10 - Present) Graduate Researcher @ [CAMP TUM](https://www.cs.cit.tum.de/camp/start/)
-- (2024.10 - 2026.06) Undergraduate Researcher & AI Engineer @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
-- (2024.06 - 2026.06) Undergraduate Researcher @ [Labren CUHK](http://www.labren.org/mm/)
-- (2024.02 - 2024.10) Undergraduate Researcher @ [Infolab SKKU](https://infolab.skku.edu/)
+- (2026.10 - Present) Graduate Medical AI Researcher @ [CAMP TUM](https://www.cs.cit.tum.de/camp/start/)
+- (2024.10 - 2026.06) Undergraduate Medical AI Researcher & Engineer @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
+- (2024.06 - 2026.06) Undergraduate Medical AI Researcher @ [Labren CUHK](http://www.labren.org/mm/)
+- (2024.02 - 2024.10) Undergraduate Medical AI Researcher @ [Infolab SKKU](https://infolab.skku.edu/)
 
 ### 🎓 Education
 - [Technical University of Munich (TUM)](https://www.tum.de/en/) — M.Sc. AI in Biomedicine (2026-2028)
