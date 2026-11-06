@@ -7,7 +7,7 @@ Reach out, I'd love to talk: dillanimansbusiness@gmail.com
 
 ### 📝 Publications
 **First author**
-- **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. **EMA4MICCAI 2026** (MICCAI workshop, accepted). Preprint: https://arxiv.org/abs/2603.21809. [CODE](https://github.com/DillanImans/CGMD-unpaired-distillation).
+- **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction. **EMA4MICCAI 2026 (MICCAI workshop, accepted)**. https://papers.miccai.org/miccai-2026-sat/paper/EMA_011.pdf. [CODE](https://github.com/DillanImans/CGMD-unpaired-distillation).
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation. **IEEE BIBM 2025**. https://ieeexplore.ieee.org/document/11357079. [CODE](https://github.com/DillanImans/unsupervised_braintumorsegmentation_ieeebibm2025).
 - **Imans, D.**, Abuhmed, T., Alharbi, M., & El-Sappagh, S. Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment. **Diagnostics, 14(21), 2385 (2024)**. https://doi.org/10.3390/diagnostics14212385. [CODE](https://github.com/InfoLab-SKKU/DES4Depression).
 - **Imans, D.**, Bui, P.N., Le, D.T., & Choo, H. Shared Semantic Codebook Distillation for Unpaired Cross-Modal Medical Classification. Preprint. https://arxiv.org/abs/2607.27357. [CODE](https://github.com/DillanImans/SSCD-unpaired-distillation).
