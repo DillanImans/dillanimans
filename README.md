@@ -37,7 +37,7 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 - [Vigilia Mundi](https://vigiliamundi.com) — a live geospatial tracking dashboard that ingests automated epidemic and disaster feeds into a Postgres backend to visualize global alerts on an interactive map. Built with Next.js, FastAPI and PostgreSQL.
 
 ### 🛠️ Technical Skills
-**Programming Languages** — Python · C/C++ · Java · JavaScript
+**Programming Languages** — Python · C/C++ · Java · TypeScript
 
 **Vision & ML** — PyTorch · NumPy · Pandas · scikit-learn · OpenCV · ONNX
 
