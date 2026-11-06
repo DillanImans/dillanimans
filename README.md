@@ -33,6 +33,7 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 - [Sungkyunkwan University (SKKU)](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (2022-2026)
 
 ### 👾 Projects
+- [Haptic Needle Teleoperation](https://github.com/DillanImans/haptic-needle-teleoperation) — *work in progress, HEX lab, TUM.* A teleoperation setup where a Force Dimension haptic device drives a Franka arm carrying a needle, with multimodal operator feedback (haptic, vibration, audio, tongue-based tactile). Built with C++ and ROS 2.
 - [Vigilia Mundi](https://vigiliamundi.com) — a live geospatial tracking dashboard that ingests automated epidemic and disaster feeds into a Postgres backend to visualize global alerts on an interactive map. Built with Next.js, FastAPI and PostgreSQL.
 
 ### 🛠️ Technical Skills
