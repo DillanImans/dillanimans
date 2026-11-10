@@ -18,9 +18,6 @@ Reach out, I'd love to talk: dillanimansbusiness@gmail.com
 - Xu, M., Huang, Z., **Imans, D.**, Ye, Y., Zhang, X., Dou, Q. SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning. Preprint. https://arxiv.org/abs/2506.07196v1.
 - Acknowledged for dataset annotation support: Zeng, Z., Xu, M., Jiang, J., et al. SurgΣ: A Spectrum of Large-Scale Multimodal Data and Foundation Models for Surgical Intelligence. Preprint. https://arxiv.org/abs/2603.16822.
 
-### 🤝 Service
-Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
-
 ### 🚀 Professional Experiences
 - (2026.10 - Present) Graduate Computer Vision Researcher @ [CAMP TUM](https://www.cs.cit.tum.de/camp/start/)
 - (2024.10 - 2026.06) Undergraduate Computer Vision Researcher & Engineer @ [Superintelligence Lab SKKU](http://monet.skku.edu/main/)
@@ -31,6 +28,9 @@ Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 - [Technical University of Munich (TUM)](https://www.tum.de/en/) — M.Sc. AI in Biomedicine (2026-2028)
   - Member: [Elitenetzwerk Bayern](https://www.elitenetzwerk.bayern.de/en/home) (Elite Network of Bavaria)
 - [Sungkyunkwan University (SKKU)](https://www.skku.ac.kr/skku/index.do) — Bachelor's of Computer Science & Engineering (2022-2026)
+
+### 🤝 Service
+Reviewer, EMA4MICCAI 2026 (MICCAI workshop)
 
 ### 👾 Projects
 - [Haptic Needle Teleoperation](https://github.com/DillanImans/haptic-needle-teleoperation) — *work in progress, HEX lab, TUM.* A teleoperation setup where a Force Dimension haptic device drives a Franka arm carrying a needle, with multimodal operator feedback (haptic, vibration, audio, tongue-based tactile). Built with C++ and ROS 2.
